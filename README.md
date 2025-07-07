@@ -1,4 +1,11 @@
-## Hi there 👋
+### Olá 👋
+
+###### Sobre o Denis
+17 anos de experiência no desenvolvimento de projetos com uso de diversas tecnologias, para desenvolvimento mobile, web, automações e outros.
+
+### Detalhes
+
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=daperes&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 <!--
 **daperes/daperes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
